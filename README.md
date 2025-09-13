@@ -92,3 +92,6 @@ Abra um Pull Request
 ## Licença
 
 Licenciado sob a MIT License.
+
+
+Obs: Não foram executados os passo referente ao MAP e da idade.
