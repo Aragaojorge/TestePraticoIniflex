@@ -94,4 +94,4 @@ Abra um Pull Request
 Licenciado sob a MIT License.
 
 
-Obs: Não foram executados os passo referente ao MAP e da idade.
+Obs: Não foram executados os passos referentes ao MAP e da idade.
